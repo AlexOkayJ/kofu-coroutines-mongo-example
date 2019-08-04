@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "login": "alxG",
+    "firstname": "Alex",
+    "lastname": "Gorynin"
+  },
+  { "id" : 2,
+    "login": "serg",
+    "firstname": "Sergey",
+    "lastname": "Dubov"
+  },
+  {
+    "id" : 3,
+    "login": "mks",
+    "firstname": "Maksim",
+    "lastname": "Budov"
+  }
+]
